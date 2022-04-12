@@ -6,9 +6,14 @@ Color Reference
 #c7a7a9 - silver pink
 #6bfaf0 - fluorescent blue
 */
+<<<<<<< HEAD
 
 *
 {
     margin: auto;
     padding: auto;
+=======
+h{
+    color: 6bfaf0;
+>>>>>>> 21a9337f146efab875d651280409c067c0069752
 }
