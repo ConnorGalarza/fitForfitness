@@ -11,7 +11,7 @@ Color Reference
 body{
     background-image: url(workoutpicmain.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 .flex-container{
     display: flex;
