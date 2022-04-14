@@ -13,3 +13,16 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 1000px;
+    color: azure;
+}
+
+.flex-container > h1,h2{
+    font-size: 80px;
+    text-shadow: 2px 2px 8px black;
+}
