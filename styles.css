@@ -30,3 +30,21 @@ body{
 .flex-container1{
     height: 600px;
 }
+#carouselExampleIndicators{
+    padding-top: 80px;
+    width: 600px;
+    height: 600px;
+}
+.container{
+    display: grid;
+    grid-template-areas:
+    "content1 content2";
+    /*height: 100vh;*/
+        
+    grid-gap: 300px;
+}
+#column2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
