@@ -10,6 +10,7 @@ Color Reference
 
 body{
     background-image: url(workoutpicmain.jpg);
+    
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -25,4 +26,7 @@ body{
 .flex-container > h1,h2{
     font-size: 80px;
     text-shadow: 2px 2px 8px black;
+}
+.flex-container1{
+    height: 600px;
 }
