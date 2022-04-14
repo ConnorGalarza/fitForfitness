@@ -7,8 +7,9 @@ Color Reference
 #6bfaf0 - fluorescent blue
 */
 
-*
-{
-    margin: auto;
-    padding: auto;
+
+body{
+    background-image: url(workoutpicmain.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
